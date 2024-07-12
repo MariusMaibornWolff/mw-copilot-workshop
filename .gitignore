@@ -1,0 +1,22 @@
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.log
+*.egg-info/
+dist/
+build/
+venv/
+*.egg
+*.pyc
+
+# IntelliJ IDEA specific
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+*.iml
